@@ -12,17 +12,15 @@ Aqui você poderá ver os meus projetos realizados durante os estudos na Tech Ac
 
 ## Projetos
 
-<strong>Tech Academy</strong>
+[Viagens](https://chryspenalber.github.io/projeto-viagens/index.html)
 
-[Viagens](https://chryspenalber.github.io/projetos/projetos-tech-academy/projeto-viagens/index.html)
+[Página StartSe](https://chryspenalber.github.io/projeto-pagina-startse/Aulao.html)
 
-[Aulão](https://chryspenalber.github.io/projetos/projetos-tech-academy/aulao-06-2022/Aulao.html)
+[Android](https://chryspenalber.github.io/projeto-android/android.html)
 
-<strong>Curso em Video</strong>
+[Cordel](https://chryspenalber.github.io/projeto-cordel/index.html)
 
-[Android](https://chryspenalber.github.io/projetos/projetos-cursoemvideo/pagina-android/android.html)
-
-[Cordel](https://chryspenalber.github.io/projetos/projetos-cursoemvideo/projeto-cordel/index.html)
+[Hércules](https://chryspenalber.github.io/projeto-hercules/Hercules.html)
 
 
 ## 🔗 Links
